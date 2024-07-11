@@ -40,8 +40,11 @@ That is not a perimeter edge.
 
 
 ```
- 0 1 0 0
- 1 1 1 0
- 0 1 0 0
- 1 1 0 0
+
+ m 0 1 0 0
+ m 1 1 1 0
+ m 0 1 0 0
+ m 1 1 0 0
+   n n n n
+
 ```
